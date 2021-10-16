@@ -1,6 +1,18 @@
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![](https://socialify.git.ci/rafaelgeronimo/trybe-project-playground-functions/image?description=1&descriptionEditable=%5BTrybe%20Project%5D%20Playground%20Functions&font=Bitter&language=1&owner=1&pattern=Circuit%20Board&theme=Light)
+
 ## 📒 Sobre
 
-Projeto [Trybe](https://www.betrybe.com/) de JavaScript para colocarmos em prática o que foi estudado durante o bloco de introdução à JavaScript e Lógica de Programação
+Projeto [Trybe](https://www.betrybe.com/) de JavaScript para colocarmos em prática o que foi estudado durante o bloco de introdução à JavaScript e Lógica de Programação.
+
+## 🛠 Instalação
+Não é necessário instalar o projeto. Todas as funções desenvolvidas estão no arquivo `src/challenges.js`.
+
+## 💻Tecnologias
+Este projeto foi desenvolvido com:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ## Requisitos do projeto
 
 <details>
